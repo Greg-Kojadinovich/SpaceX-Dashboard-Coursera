@@ -1,6 +1,6 @@
-# IBM Data Science Professional Certificate 
+# IBM Data Science Professional Certificate offered through Coursera
 
-### SpaceX Dashboard Coursera
+### SpaceX Dashboard 
 
 ### Capstone Project Files involved with building SpaceX dashboard tracking Falcon 9 launches. 
 
